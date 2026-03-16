@@ -52,4 +52,15 @@ To demonstrate the ability of text-to-image generation tools to reproduce an exi
 By using detailed and well-crafted prompts, text-to-image generation models can be effective in reproducing an image closely. The quality of the generated image depends on how accurately the prompt describes the image's key elements. The experiment demonstrates the importance of prompt refinement and iteration when working with AI tools to achieve desired outcomes. With practice, the model can generate images that closely match real-world visuals, which is useful for creative and practical applications.
 
 
-## IMAGES: (CHOOSE ANY TWO BELOW AND REPRODUCE)
+
+## Prompt Used:
+A adorable fluffy cat sitting attentively in a cozy movie theater seat, eyes fixed on a brightly lit cinema screen, soft ambient light highlighting its fur, a bucket of popcorn nearby, cinematic atmosphere with plush seats and a large screen
+## IMAGES:
+
+* Original
+ 
+  <img width="1600" height="1156" alt="image" src="https://github.com/user-attachments/assets/f32e1748-1f05-47e6-9ae7-40c0ba7ac45f" />
+
+
+
+
